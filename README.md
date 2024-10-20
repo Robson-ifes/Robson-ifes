@@ -7,7 +7,7 @@ Adoro aprender coisas novas e construir projetos interessantes. Atualmente, esto
 **Um pouco sobre mim:**
 
 * 🔭 Estou trabalhando em alguns projetos pessoais para incrementar me aprendizado e estou melhorando minha proficiência em Inglês.
-* 🌱 Estou aprendendo Python, HTML5, CSS3, Javscript.
+* 🌱 Estou aprendendo Python, HTML5, CSS3, Javascript.
 * 🤔 Estou buscando ajuda, principalmente, com design de interfaces.
 * 💬 Me pergunte sobre desenvolvimento web,  filmes de ficção científica,  música, xadrez, filosofia e história.
 * 📫 Como entrar em contato comigo: robinho.ifes@outlook.com e https://www.linkedin.com/in/robson-ribeiro-2655341b9/.
