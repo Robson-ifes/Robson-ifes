@@ -10,7 +10,7 @@ Adoro aprender coisas novas e construir projetos interessantes. Atualmente, esto
 * 🌱 Estou aprendendo Python, HTML5, CSS3, Javascript.
 * 🤔 Estou buscando ajuda, principalmente, com design de interfaces.
 * 💬 Me pergunte sobre desenvolvimento web,  filmes de ficção científica,  música, xadrez, filosofia e história.
-* 📫 Como entrar em contato comigo: robinho.ifes@outlook.com e https://www.linkedin.com/in/robson-ribeiro-2655341b9/.
+* 📫 Como entrar em contato comigo: robinho.ifes@gmail.com e https://www.linkedin.com/in/robson-ribeiro-2655341b9/.
 * 😄 Pronomes: escolhe um aí, hehehe.
 * ⚡ Fato divertido: Sou estudante de tecnologia, porém, também sou Licenciado em História e sou Mestre em Ensino de Humanidades 👨‍🏫📜.
 
